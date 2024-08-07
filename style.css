@@ -12,6 +12,8 @@ body {
     min-height: 100vh;
 }
 
+.logo{color: rgb(79, 188, 255);}   /*added by me*/
+
 header {
     display: flex;
     justify-content: space-between;
@@ -34,6 +36,9 @@ main {
     display: flex;
     flex: 1;
 }
+
+/*added by me*/
+.active{color: rgb(101, 200, 239);}
 
 nav {
     width: 200px;
